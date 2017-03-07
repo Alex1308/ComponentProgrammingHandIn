@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="dk.sdu.mmmi.cbse.Wrap">
+    <module_version install_time="1488811980263" last="true" origin="installer" specification_version="1.0">
+        <file crc="313814464" name="config/Modules/dk-sdu-mmmi-cbse-Wrap.xml"/>
+        <file crc="1877319520" name="modules/dk-sdu-mmmi-cbse-Wrap.jar"/>
+    </module_version>
+</module>
